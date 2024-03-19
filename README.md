@@ -45,7 +45,7 @@
 
 <br/><br/>
 <style>
-    img[src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif"  width="100" align='right'] {
+    img[src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif"] {
         margin-right: 0; /* Rimuoviamo il margine predefinito */
         margin-left: auto; /* Spostiamo l'immagine verso il lato destro */
         display: block; /* Assicuriamo che l'immagine sia bloccata per gestire il margine automatico */
