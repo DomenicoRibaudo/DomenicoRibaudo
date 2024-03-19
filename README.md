@@ -53,17 +53,8 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomenicoRibaudo&show_icons=true)
-
-<br><br>
-
-- 📫 How to reach me **domenicoribaudo06@gmail.com**
-
-
-<hr>
-
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 
+- 📫 How to reach me **domenicoribaudo06@gmail.com**
