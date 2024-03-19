@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend-developer from Italy</h3>
 
 
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FrcTVsdnpxeno1OXdza3R1enllejA5b2ppcDg3cWwyaDRtNHNzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="180" margin-bottom ="20px">
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FrcTVsdnpxeno1OXdza3R1enllejA5b2ppcDg3cWwyaDRtNHNzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200" margin-bottom ="20px">
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><b>About Me</b>
 </div>
