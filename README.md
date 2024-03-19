@@ -35,7 +35,7 @@
 
 - 🔧 &nbsp; Git | Trello | Agile | IntelliJ Idea
 
-
+-->
 
 
 <hr>
