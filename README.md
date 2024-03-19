@@ -50,11 +50,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="left">
-<a  href="https://linkedin.com/in/domenicoribaudo" alt="- LinkedIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="domenicoribaudo" height="30" width="40" /></a>
-</p>
 
-- 📫 How to reach me **domenicoribaudo06@gmail.com**
 
 
 [![alt text][1.1]][1]
@@ -77,4 +73,10 @@
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
+
+<p align="left">
+<a  href="https://linkedin.com/in/domenicoribaudo" alt="- LinkedIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="domenicoribaudo" height="30" width="40" /></a>
+</p>
+
+- 📫 How to reach me **domenicoribaudo06@gmail.com**
 
