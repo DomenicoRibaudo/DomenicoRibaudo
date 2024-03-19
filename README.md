@@ -48,10 +48,10 @@
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="350" align='right'>
 
 
-<h1> 🤝🏻 Connect with Me </h1>
+<h2> 🤝🏻 Connect with Me </h2>
 
 <p align="left">
 <h3> - LinkedIN </h3> 
