@@ -50,8 +50,7 @@
 <img align='right' src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="100" style="margin-right: 1200px;">
 
 
-
-<h3> 🤝🏻 Connect with Me </h3>
+<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 
 
