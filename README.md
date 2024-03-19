@@ -53,5 +53,10 @@
 <p align="left">
 <a  href="https://linkedin.com/in/domenicoribaudo" alt="- LinkedIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="domenicoribaudo" height="30" width="40" /></a>
 </p>
-
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 - 📫 How to reach me **domenicoribaudo06@gmail.com**
