@@ -48,7 +48,7 @@
 
 <br/>
 
-<img src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="350" align='right'>
+<img src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="200" align='right'>
 
 
 <h2> 🤝🏻 Connect with Me </h2>
