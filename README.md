@@ -45,10 +45,7 @@
 <br/><br/>
 
 
-<br/>
-
-<br/>
-
+<br/><br/>
 <img src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="200" align='right'>
 
 
