@@ -1,5 +1,7 @@
 
 ### Hi there 👋<h2> I'm Domenico Ribaudo</h2>
+<h3 align="center">A passionate backend-developer from Italy</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domenicoribaudo" alt="domenicoribaudo" /></a> </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -16,6 +18,7 @@
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 
+- 🔭 I’m currently working on [CricketCritics](https://github.com/floralgreen/cricket-critics.git)
 
 <h3>🛠 Tech Stack</h3>
 
@@ -54,6 +57,7 @@
 
 <br><br>
 
+- 📫 How to reach me **domenicoribaudo06@gmail.com**
 
 
 <hr>
