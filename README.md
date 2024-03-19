@@ -15,9 +15,6 @@
 
 - 🌱 &nbsp; Learning about web-app development.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
 - 🔭 I’m currently working on [CricketCritics](https://github.com/floralgreen/cricket-critics.git)
 
 <h3>🛠 Tech Stack</h3>
@@ -56,5 +53,8 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
+<p align="left">
+<a href="https://linkedin.com/in/domenicoribaudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="domenicoribaudo" height="30" width="40" /></a>
+</p>
 
 - 📫 How to reach me **domenicoribaudo06@gmail.com**
