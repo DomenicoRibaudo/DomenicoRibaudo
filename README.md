@@ -52,27 +52,10 @@
 
 
 
+<p align="left">
+<a  href="https://linkedin.com/in/domenicoribaudo" alt="- LinkedIN" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" alt="domenicoribaudo" height="30" width="40" /></a>
+</p>
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: https://imgur.com/gallery/q63QSE5 (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: https://www.linkedin.com/in/domenico-ribaudo-210627196/
-[6]: http://www.github.com/carlsednaoui
 
 <p align="left">
 <a  href="https://linkedin.com/in/domenicoribaudo" alt="- LinkedIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="domenicoribaudo" height="30" width="40" /></a>
