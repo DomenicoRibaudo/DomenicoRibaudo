@@ -44,7 +44,7 @@
 
 <br/><br/>
 
-<img align='right' src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="130" style="margin-left: 1200px;">
+<img align='right' src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="130" style="margin-right: 1200px;">
 
 
 
