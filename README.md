@@ -42,8 +42,6 @@
 <br/><br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domenicoribaudo&show_icons=true&locale=en&layout=compact" alt="domenicoribaudo" /></p>
 
-<br/><br/>
-
 
 <br/><br/>
 <img src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="100" align='right'>
