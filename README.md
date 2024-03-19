@@ -40,7 +40,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DomenicoRibaudo0&show_icons=true)](https://github.com/shivam0110)
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DomenicoRibaudo0&show_icons=true)](https://github.com/DomenicoRibaudo)
 
 <br/>
 
@@ -60,24 +60,12 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
-
-
-
-<p align="center">
-
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/domenico-ribaudo-210627196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-/<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></a>
-
-<a href="mailto:domenicoribaudo06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
 
 
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.DomenicoRibaudo)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=DomenicoRibaudo)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
