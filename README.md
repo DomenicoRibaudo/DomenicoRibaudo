@@ -43,7 +43,9 @@
 
 
 <br/><br/>
-<img src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="100"  style="margin-right: 200px;">
+
+<img align='left' src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="230" style="margin-right: 20px;">
+
 
 
 <h3> 🤝🏻 Connect with Me </h3>
