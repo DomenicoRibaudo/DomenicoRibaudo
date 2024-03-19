@@ -50,10 +50,12 @@
         margin-left: auto; /* Spostiamo l'immagine verso il lato destro */
         display: block; /* Assicuriamo che l'immagine sia bloccata per gestire il margine automatico */
     }
+
+     width="100" align='right'
 </style>
-
-
-
+<p align="left">
+<img src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="100" align='right'>
+</p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
