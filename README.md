@@ -50,7 +50,6 @@
 
 
 <h2> 🤝🏻 Connect with Me </h2>
-<br/><br/>
 
 <p align="left">
 <h3> - LinkedIN </h3> 
