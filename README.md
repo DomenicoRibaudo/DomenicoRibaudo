@@ -70,7 +70,7 @@
 
 <a href="https://www.linkedin.com/in/domenico-ribaudo-210627196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-/<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+/<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></a>
 
 <a href="mailto:domenicoribaudo06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
