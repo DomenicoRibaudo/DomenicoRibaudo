@@ -50,7 +50,8 @@
 <br/><br/>
 
 <img align='left' src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="50" style="margin-right: 1200px;">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" style="margin-left: 200px;">
   <br>
