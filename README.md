@@ -51,10 +51,10 @@
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h1> 🤝🏻 Connect with Me </h1>
 
 <p align="left">
-<h1> - LinkedIN </h1> 
+<h3> - LinkedIN </h3> 
 <a  href="https://linkedin.com/in/domenicoribaudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="domenicoribaudo" height="30" width="40" /></a>
 </p>
 
