@@ -68,5 +68,5 @@
   
 </p>
 
-- 📫 How to reach me **domenicoribaudo06@gmail.com**
+- 📫 How to reach me <a href="domenicoribaudo06@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" alt="discord" height="50" width="50" /></a>
 
