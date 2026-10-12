@@ -37,16 +37,6 @@ I use **AI-Augmented Development** in my everyday workflow, configuring and orch
 | **Additional Development** | **AI & Automation** |
 | Node.js · Fastify · Express<br>Python · Shell scripting | Claude Code · Cursor<br>AI agent orchestration · Local LLMs<br>API-based AI integrations |
 
-## Personal Projects & Technical Exploration
-
-**Gippi — AI Desktop Assistant** *(in development)*  
-Exploring conversational interactions, voice input/output (STT/TTS), AI service integrations and desktop automation.
-
-**AI Conversation Platform** *· Java, Spring Boot, React, PostgreSQL, Docker*  
-Full-stack application with conversation and message persistence backed by a containerized relational database.
-
-> Most of my professional work involves proprietary enterprise systems and is not published in public repositories.
-
 ## Education & Certifications
 
 - **Python Essentials 1 & 2** — Cisco Networking Academy (2026)
