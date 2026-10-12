@@ -43,7 +43,4 @@ I use **AI-Augmented Development** in my everyday workflow, configuring and orch
 - **Java Backend Developer Bootcamp** — DevelHope (2023–2024)
 
 ## Let's Connect
-
-I'm open to technical conversations, collaborations and opportunities in **Java backend, full-stack engineering and practical AI development**.
-
 [LinkedIn](https://www.linkedin.com/in/domenico-ribaudo/) · [Email](mailto:domenicoribaudo06@gmail.com)
