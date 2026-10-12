@@ -1,114 +1,59 @@
-<h1 align="center">Hi, I'm Domenico Ribaudo 👋</h1>
-<h3 align="center">Full Stack Developer | Java Backend Specialist | AI-Augmented Development</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/domenico-ribaudo-210627196/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Domenico%20Ribaudo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:domenicoribaudo06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-domenicoribaudo06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<h1>Domenico Ribaudo</h1>
 
-<p align="center">
-  📍 Palermo, Italy
-</p>
+<h3>Full Stack Developer | Java Backend Specialist | AI-Augmented Development</h3>
+
+<p>Enterprise Applications · Microservices · Secure APIs · Automation</p>
+
+<a href="https://www.linkedin.com/in/domenico-ribaudo/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:domenicoribaudo06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<p>📍 Palermo, Italy</p>
+
+</div>
 
 ---
 
 ## About Me
 
-I'm a **Full Stack Developer** with a strong specialization in **Java backend development**.
+I'm a **Full Stack Developer specialized in Java backend engineering**, with hands-on experience building enterprise applications, REST services, microservices and business workflows.
 
-My main focus is building **REST APIs, business logic, enterprise applications and distributed systems** using **Java, Spring Boot and Jakarta EE**.  
-Alongside backend development, I also work with **React/Redux**, **Node.js/TypeScript**, **Python automation**, and **containerized environments**.
+My core stack is **Java, Spring Boot and Jakarta EE**, with a focus on API security, relational databases and asynchronous integrations. I also develop frontend features with **React/Redux**, backend services with **Node.js/TypeScript**, and automation tools with **Python and Shell**. I work with Docker, Kubernetes and CI/CD tooling across the development lifecycle.
 
-I actively integrate **AI-Augmented Development** into my workflow, using tools like **Claude Code**, **Cursor** and local **LLMs** to improve productivity, experimentation and software delivery.
-
----
+I use **AI-Augmented Development** in my everyday workflow, configuring and orchestrating coding agents with Claude Code and Cursor, and experimenting with local LLMs and API-based integrations.
 
 ## Tech Stack
 
-### Backend
-- Java (8, 17, 23)
-- Spring Boot
-- Spring Data JPA
-- Spring Security
-- Jakarta EE / Open Liberty
-- Hibernate / JPA
-- JDBC
-- Node.js
-- Fastify
-- Express
+| **Backend & APIs** | **Frontend** |
+|:---|:---|
+| Java (8, 17, 23) · Spring Boot<br>Jakarta EE / Open Liberty · Spring Security (JWT)<br>Spring Data JPA · Hibernate / JPA · JDBC<br>REST APIs · OpenAPI / Swagger | React · Redux<br>TypeScript · JavaScript<br>HTML · CSS |
+| **Databases & Messaging** | **DevOps & Quality** |
+| Oracle · PostgreSQL · MariaDB · InfluxDB<br>SQL · PL/SQL · RabbitMQ · ActiveMQ | Docker · Kubernetes · Jenkins · Maven<br>Git / GitLab · Nexus · SonarQube<br>JUnit · Linux · Postman |
+| **Additional Development** | **AI & Automation** |
+| Node.js · Fastify · Express<br>Python · Shell scripting | Claude Code · Cursor<br>AI agent orchestration · Local LLMs<br>API-based AI integrations |
 
-### API & Integration
-- REST APIs
-- OpenAPI / Swagger
-- JWT
-- RabbitMQ
-- ActiveMQ
+## Personal Projects & Technical Exploration
 
-### Frontend
-- React
-- Redux
-- JavaScript
-- TypeScript
-- HTML
-- CSS
+**Gippi — AI Desktop Assistant** *(in development)*  
+Exploring conversational interactions, voice input/output (STT/TTS), AI service integrations and desktop automation.
 
-### Databases
-- Oracle
-- PostgreSQL
-- MariaDB
-- InfluxDB
-- MySQL
+**AI Conversation Platform** *· Java, Spring Boot, React, PostgreSQL, Docker*  
+Full-stack application with conversation and message persistence backed by a containerized relational database.
 
-### DevOps & Tools
-- Docker
-- Kubernetes
-- Jenkins
-- Maven
-- Nexus
-- Git / GitLab
-- SonarQube
-- Linux
-- JUnit
-- Postman
+> Most of my professional work involves proprietary enterprise systems and is not published in public repositories.
 
-### AI & Automation
-- Claude Code
-- Cursor
-- AI agent orchestration
-- Local LLMs
-- Python
-- Shell scripting
+## Education & Certifications
 
----
-
-## What I Work On
-
-- Backend services and enterprise workflows
-- REST API development and integrations
-- Secure and maintainable Java applications
-- Full Stack applications with React + Java / TypeScript
-- Automation scripts and AI-assisted development workflows
-
----
-
-## Certifications
-
-- **Python Essentials 1** — Cisco Networking Academy (2026)
-- **Python Essentials 2** — Cisco Networking Academy (2026)
-
----
-
-## Education
-
+- **Python Essentials 1 & 2** — Cisco Networking Academy (2026)
 - **Java Backend Developer Bootcamp** — DevelHope (2023–2024)
 
----
+## Let's Connect
 
-## Connect with Me
+I'm open to technical conversations, collaborations and opportunities in **Java backend, full-stack engineering and practical AI development**.
 
-- LinkedIn: [domenico-ribaudo-210627196](https://www.linkedin.com/in/domenico-ribaudo-210627196/)
-- Email: [domenicoribaudo06@gmail.com](mailto:domenicoribaudo06@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/domenico-ribaudo/) · [Email](mailto:domenicoribaudo06@gmail.com)
